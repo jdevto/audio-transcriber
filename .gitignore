@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.Python
+# Optional: uncomment to keep sample audio and generated outputs out of git
+# *.m4a
+# *.wav
+# *.mp3
+# *_minutes_*.md
